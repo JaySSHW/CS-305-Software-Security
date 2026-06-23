@@ -1,6 +1,6 @@
 # CS 305 Portfolio Artiface Reflection
 
-Artifact: Artemis Financial Practices for Secure Software Report
+## Artifact: Artemis Financial Practices for Secure Software Report
 
 Artifact Overview
 
